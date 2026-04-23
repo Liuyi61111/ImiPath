@@ -1,1 +1,1 @@
-# ImiPath 
+# ImiPath: A Spatiotemporal Prior-Based Learning Framework for Cross-Scale Path Planning 
